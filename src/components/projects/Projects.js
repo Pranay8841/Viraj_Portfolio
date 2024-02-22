@@ -1,5 +1,4 @@
 import React from 'react'
-import Titles from '../layouts/Titles'
 import ProjectsCard from './ProjectsCard'
 import { projectFour, college_pro, portfolio_pro, ML_Pro } from "../../assets/index";
 
@@ -7,7 +6,6 @@ function Projects() {
   return (
     <section id="projects" className='w-full py-20 border-b-[1px border-b-black]'>
         <div className='flex justify-center items-center text-center'>
-            
         </div>
         <div className='grid grid-cols-3 gap-14'>
             <ProjectsCard
