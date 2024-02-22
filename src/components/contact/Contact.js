@@ -1,4 +1,4 @@
-import React,{Suspense, useState, useRef} from 'react'
+import React,{useState, useRef} from 'react'
 import Titles from '../layouts/Titles'
 import ContactLeft from './ContactLeft'
 import emailjs from '@emailjs/browser';
