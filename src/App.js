@@ -10,14 +10,14 @@ import Footer from "./components/footer/Footer";
 function App() {
   return (
     <div className="w-full h-auto mx-auto bg-bodyColor text-lightText px-4">
-        <Navbar/>
+      <Navbar />
       <div className="max-w-screen-2xl mx-auto">
-        <Banner/>
-        <Features/>
-        <Projects/>
-        <Resume/>
-        <Contact/>
-        <Footer/>
+        <Banner />
+        <Features />
+        <Projects />
+        <Resume />
+        <Contact />
+        <Footer />
       </div>
     </div>
   );

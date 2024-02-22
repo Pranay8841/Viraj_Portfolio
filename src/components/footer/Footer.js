@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import { logo3 } from "../../assets/index";
 import { FaFacebook, FaTwitter, FaLinkedinIn } from "react-icons/fa";
 
@@ -50,4 +50,4 @@ function Footer() {
   );
 }
 
-export default Footer
+export default Footer;
